@@ -1,0 +1,24 @@
+first thing: linux is amazing
+commands learned:
+    diff -u file1 file2 #find the differences between two files line by line
+    pwd #print working directory
+
+accessing the history of a file is the real shit #use it bitch
+
+git commit - manually commit the version of ur code
+pros: u do that whenever u need to, like after a logical change
+cons: u do it manually, its doesn't backup like google docs
+
+git can save multiple files in one commit
+
+commands learned:
+    git log #returns history of the commits in a repository
+    run diff on the id of the commits
+
+open file in a browser: google-chrome index.html
+
+using version control actually helps a lot, like u can go and do crazy shit,
+then u go git checkout [commit id] and test the living  shit to pinpoint the
+commit, where the bug was first introduced
+
+the clone bug id: 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91
