@@ -1,0 +1,6 @@
+#here we go again
+commands learned:
+    git init #makes a new repository inside a dir
+    git status #shows wtf is going on in a repository
+
+why make a git repository in a dir - in order to track the history
