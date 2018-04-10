@@ -4,3 +4,8 @@ commands learned:
     git status #shows wtf is going on in a repository
 
 why make a git repository in a dir - in order to track the history
+
+there is a middle ground between a commit and a non-committed file called
+staging area, it allows u to decide what, when and how u wanna commit
+command learned:
+    git add #adds file(-s) to the staging area
