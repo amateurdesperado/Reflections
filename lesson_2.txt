@@ -9,3 +9,7 @@ there is a middle ground between a commit and a non-committed file called
 staging area, it allows u to decide what, when and how u wanna commit
 command learned:
     git add #adds file(-s) to the staging area
+
+commands learned:
+    git diff(no args) #compares the working dir to the staging area
+    git diff --staged #compares staging area to the most recent commit
