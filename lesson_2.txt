@@ -13,3 +13,10 @@ command learned:
 commands learned:
     git diff(no args) #compares the working dir to the staging area
     git diff --staged #compares staging area to the most recent commit
+
+branches are a cool ting, they allow u to make an alternative
+version of ur shit
+commands learned:
+    git branch #check ur current branch
+    git branch [branch] #create new branch
+    git checkout [branch] #switch to the desired branch
