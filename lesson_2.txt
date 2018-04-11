@@ -24,3 +24,13 @@ commands learned:
 diagrams help visualize branch structure
 the git checkout [id] creates a microbranch in the HEAD state and this weird
 branch stays if u save the changes
+
+merge two branches connects the most recent commits of each branch: all of the
+commits are accessible in git log on the current branch, differentiated by the
+time they were created
+commands learned:
+    git merge branch1 branch2 #merges the branches
+    git -d branch #deletes a branch(only the branch name if the branches were
+    merged)
+    git log --graph --oneline #creates a more easily understandable git log
+    output
