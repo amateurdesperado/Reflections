@@ -20,3 +20,7 @@ commands learned:
     git branch #check ur current branch
     git branch [branch] #create new branch
     git checkout [branch] #switch to the desired branch
+
+diagrams help visualize branch structure
+the git checkout [id] creates a microbranch in the HEAD state and this weird
+branch stays if u save the changes
