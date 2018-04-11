@@ -34,3 +34,7 @@ commands learned:
     merged)
     git log --graph --oneline #creates a more easily understandable git log
     output
+
+
+automatic vs manual merging: when git dunno what to merge it gon ask u what
+functions/lines to merge displaying multiple existing versions
