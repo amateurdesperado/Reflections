@@ -1,0 +1,2 @@
+Using remote repositories can come quite handy when working together on a project,
+or working frm different PCs
