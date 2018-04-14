@@ -4,3 +4,8 @@ or working from different PCs
 pulling changes manually allows u to control what do u wanna modify,
 i.e. when some dude is working on a different part of ur project, and u do not
 need his changes yet
+
+forks VS clones VS branches
+fork: between two GitHub repositories, mostly when u can't modify the rep u clone
+clone: everyting can be cloned
+branch: u can push and pull them and a lot of other tings
