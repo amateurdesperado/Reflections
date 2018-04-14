@@ -11,5 +11,10 @@ clone: everyting can be cloned
 branch: u can push and pull them and a lot of other tings
 
 issa cool ting to store a copy of the remote branch locally, like u know what
-u been up to and the other person who modified the code has his version, 
+u been up to and the other person who modified the code has his version,
 so u get new shit when merging the 2 versions
+
+It's easier to collaborate with others on GitHub,
+cause it's possible to edit code and leave comments simultaneously,
+however if there ain't no GitHub there ain't no need to merge different
+remote branches
