@@ -9,3 +9,7 @@ forks VS clones VS branches
 fork: between two GitHub repositories, mostly when u can't modify the rep u clone
 clone: everyting can be cloned
 branch: u can push and pull them and a lot of other tings
+
+issa cool ting to store a copy of the remote branch locally, like u know what
+u been up to and the other person who modified the code has his version, 
+so u get new shit when merging the 2 versions
