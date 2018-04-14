@@ -1,2 +1,6 @@
 Using remote repositories can come quite handy when working together on a project,
-or working frm different PCs
+or working from different PCs
+
+pulling changes manually allows u to control what do u wanna modify,
+i.e. when some dude is working on a different part of ur project, and u do not
+need his changes yet
