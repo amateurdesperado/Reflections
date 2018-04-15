@@ -18,3 +18,16 @@ It's easier to collaborate with others on GitHub,
 cause it's possible to edit code and leave comments simultaneously,
 however if there ain't no GitHub there ain't no need to merge different
 remote branches
+
+commands learned:
+    git pull [branch1] [branch2] #trynna merge
+    git push [branch1] [branch2]
+    git fetch #pulls without merging
+    git merge master origin/master #merge branches in ur wd and on GitHub
+    git remote add origin [link] #adds a remote branch
+    git log -n 1 #shows only the last commit
+    git remote -v #view the origin
+
+Changes in separate branch:
+  + doesn't affect/break master branch
+  - hard to merge sometimes
